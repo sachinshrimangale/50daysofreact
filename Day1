@@ -1,0 +1,20 @@
+
+import Header from "./Header.jsx"
+import Footer from "./Food.jsx"
+
+
+function App(){
+  return(
+    <>
+    <food/>
+    <Header/>
+    </>      
+      // Fragments are used to accept multiple components 
+  )
+}
+export default App
+
+function Hello(){
+  return <h1>from me</h1>
+}
+root.temde
