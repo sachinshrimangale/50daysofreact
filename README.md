@@ -1,2 +1,2 @@
 # 50daysofreact
-I am going to cover React  in  50 days. 
+I am going to learn React  in  50 days. 
